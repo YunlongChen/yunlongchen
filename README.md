@@ -10,7 +10,7 @@
 
 他具备以下技能：
 
-**Backend Developer**
+**Backend**
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=CoffeeScript&logoColor=white" />
@@ -18,9 +18,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
+
 </p>
 
-**Web Developer**
+**Frontend Developer**
 
 <p>
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
@@ -58,14 +59,13 @@
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
 
-<!-- <p align="center">
+**关于我**
+
+<p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
-    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=innei&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
+    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=yunlongChen&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
   </a>
-  <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-light-mode-only">
-    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=innei&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
-  </a>
-</p> -->
+</p>
 
 <p align=center><strong>お可愛いこと。</strong></p>
 <p align=center>此文件 <i>README</i> <b>更新与：11/13/22, 16:38 PM<br>
