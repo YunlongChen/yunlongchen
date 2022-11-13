@@ -2,6 +2,15 @@
 
 # ChenYunLong 🧑🏻‍💻
 
+<p>
+  <a href="https://gitee.com/stanChen">
+    <img alt="Gitee" src="https://img.shields.io/badge/-Gitee-C71D23?style=flat&logo=gitee&logoColor=white" />
+  </a>
+  <a href="https://github.com/YunlongChen">
+    <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white" />
+  </a>
+</p>
+
 我是一个热衷于探索全栈开发新事物的初级萌新。现阶段为进入职场三年，离职待就业的社畜，坐标重庆。
 
 在开发者领域，常在 GitHub 中活跃，并且向往于成为自由独立开发者。
@@ -18,7 +27,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
-
 </p>
 
 **Frontend Developer**
@@ -59,13 +67,6 @@
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
 
-**关于我**
 
-<p align="center">
-  <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
-    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=yunlongChen&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
-  </a>
-</p>
-
-<p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>更新与：11/13/22, 16:38 PM<br>
+<p align=center><strong>好好学习，好好工作，好好生活！</strong></p>
+<p align=center>此文件 <i>README.md</i> <b>更新与：11/13/22, 17:20 PM<br>
